@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="solid_mad.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="solid MAD idle0000" x="671" y="1000" width="219" height="232" frameX="0" frameY="-11" frameWidth="219" frameHeight="243"/>
+	<SubTexture name="solid MAD idle0001" x="671" y="1000" width="219" height="232" frameX="0" frameY="-11" frameWidth="219" frameHeight="243"/>
+	<SubTexture name="solid MAD idle0002" x="3088" y="275" width="216" height="234" frameX="-3" frameY="-8" frameWidth="219" frameHeight="243"/>
+	<SubTexture name="solid MAD idle0003" x="3088" y="275" width="216" height="234" frameX="-3" frameY="-8" frameWidth="219" frameHeight="243"/>
+	<SubTexture name="solid MAD idle0004" x="1020" y="998" width="211" height="243" frameX="-8" frameY="0" frameWidth="219" frameHeight="243"/>
+	<SubTexture name="solid MAD idle0005" x="1020" y="998" width="211" height="243" frameX="-8" frameY="0" frameWidth="219" frameHeight="243"/>
+	<SubTexture name="solid MAD idle0006" x="3204" y="832" width="214" height="241" frameX="-5" frameY="-1" frameWidth="219" frameHeight="243"/>
+	<SubTexture name="solid MAD idle0007" x="3204" y="832" width="214" height="241" frameX="-5" frameY="-1" frameWidth="219" frameHeight="243"/>
+	<SubTexture name="solid MAD idle0008" x="457" y="999" width="213" height="241" frameX="-6" frameY="-2" frameWidth="219" frameHeight="243"/>
+	<SubTexture name="solid MAD idle0009" x="457" y="999" width="213" height="241" frameX="-6" frameY="-2" frameWidth="219" frameHeight="243"/>
+	<SubTexture name="solid MAD idle0010" x="1787" y="999" width="213" height="241" frameX="-6" frameY="-2" frameWidth="219" frameHeight="243"/>
+	<SubTexture name="solid MAD idle0011" x="1787" y="999" width="213" height="241" frameX="-6" frameY="-2" frameWidth="219" frameHeight="243"/>
+	<SubTexture name="solid MAD idle0012" x="457" y="999" width="213" height="241" frameX="-6" frameY="-2" frameWidth="219" frameHeight="243"/>
+	<SubTexture name="solid MAD idle0013" x="457" y="999" width="213" height="241" frameX="-6" frameY="-2" frameWidth="219" frameHeight="243"/>
+	<SubTexture name="solid mad down miss0000" x="3719" y="788" width="245" height="211" frameX="-3" frameY="-14" frameWidth="252" frameHeight="226"/>
+	<SubTexture name="solid mad down miss0001" x="1835" y="531" width="249" height="226" frameX="-1" frameY="0" frameWidth="252" frameHeight="226"/>
+	<SubTexture name="solid mad down miss0002" x="1835" y="531" width="249" height="226" frameX="-1" frameY="0" frameWidth="252" frameHeight="226"/>
+	<SubTexture name="solid mad down miss0003" x="1581" y="524" width="252" height="224" frameX="0" frameY="-2" frameWidth="252" frameHeight="226"/>
+	<SubTexture name="solid mad down miss0004" x="1581" y="524" width="252" height="224" frameX="0" frameY="-2" frameWidth="252" frameHeight="226"/>
+	<SubTexture name="solid mad down miss0005" x="860" y="531" width="252" height="224" frameX="0" frameY="-2" frameWidth="252" frameHeight="226"/>
+	<SubTexture name="solid mad down miss0006" x="1581" y="524" width="252" height="224" frameX="0" frameY="-2" frameWidth="252" frameHeight="226"/>
+	<SubTexture name="solid mad down miss0007" x="1581" y="524" width="252" height="224" frameX="0" frameY="-2" frameWidth="252" frameHeight="226"/>
+	<SubTexture name="solid mad down miss0008" x="860" y="531" width="252" height="224" frameX="0" frameY="-2" frameWidth="252" frameHeight="226"/>
+	<SubTexture name="solid mad down miss0009" x="1581" y="524" width="252" height="224" frameX="0" frameY="-2" frameWidth="252" frameHeight="226"/>
+	<SubTexture name="solid mad down miss0010" x="1581" y="524" width="252" height="224" frameX="0" frameY="-2" frameWidth="252" frameHeight="226"/>
+	<SubTexture name="solid mad down miss0011" x="860" y="531" width="252" height="224" frameX="0" frameY="-2" frameWidth="252" frameHeight="226"/>
+	<SubTexture name="solid mad down miss0012" x="1581" y="524" width="252" height="224" frameX="0" frameY="-2" frameWidth="252" frameHeight="226"/>
+	<SubTexture name="solid mad down note0000" x="3719" y="788" width="245" height="211" frameX="-0" frameY="-5" frameWidth="252" frameHeight="226"/>
+	<SubTexture name="solid mad down note0001" x="3719" y="788" width="245" height="211" frameX="-0" frameY="-5" frameWidth="252" frameHeight="226"/>
+	<SubTexture name="solid mad down note0002" x="1020" y="779" width="248" height="217"/>
+	<SubTexture name="solid mad down note0003" x="1020" y="779" width="248" height="217"/>
+	<SubTexture name="solid mad down note0004" x="1020" y="779" width="248" height="217"/>
+	<SubTexture name="solid mad left miss0000" x="0" y="272" width="284" height="242" frameX="0" frameY="0" frameWidth="289" frameHeight="242"/>
+	<SubTexture name="solid mad left miss0001" x="572" y="272" width="287" height="238" frameX="-1" frameY="-4" frameWidth="289" frameHeight="242"/>
+	<SubTexture name="solid mad left miss0002" x="572" y="272" width="287" height="238" frameX="-1" frameY="-4" frameWidth="289" frameHeight="242"/>
+	<SubTexture name="solid mad left miss0003" x="3606" y="274" width="285" height="240" frameX="-2" frameY="-2" frameWidth="289" frameHeight="242"/>
+	<SubTexture name="solid mad left miss0004" x="3606" y="274" width="285" height="240" frameX="-2" frameY="-2" frameWidth="289" frameHeight="242"/>
+	<SubTexture name="solid mad left miss0005" x="2802" y="275" width="285" height="240" frameX="-2" frameY="-2" frameWidth="289" frameHeight="242"/>
+	<SubTexture name="solid mad left miss0006" x="2802" y="275" width="285" height="240" frameX="-2" frameY="-2" frameWidth="289" frameHeight="242"/>
+	<SubTexture name="solid mad left miss0007" x="3606" y="274" width="285" height="240" frameX="-2" frameY="-2" frameWidth="289" frameHeight="242"/>
+	<SubTexture name="solid mad left miss0008" x="3606" y="274" width="285" height="240" frameX="-2" frameY="-2" frameWidth="289" frameHeight="242"/>
+	<SubTexture name="solid mad left miss0009" x="2802" y="275" width="285" height="240" frameX="-2" frameY="-2" frameWidth="289" frameHeight="242"/>
+	<SubTexture name="solid mad left miss0010" x="2802" y="275" width="285" height="240" frameX="-2" frameY="-2" frameWidth="289" frameHeight="242"/>
+	<SubTexture name="solid mad left miss0011" x="3606" y="274" width="285" height="240" frameX="-2" frameY="-2" frameWidth="289" frameHeight="242"/>
+	<SubTexture name="solid mad left note0000" x="0" y="272" width="284" height="242" frameX="0" frameY="0" frameWidth="289" frameHeight="242"/>
+	<SubTexture name="solid mad left note0001" x="0" y="272" width="284" height="242" frameX="0" frameY="0" frameWidth="289" frameHeight="242"/>
+	<SubTexture name="solid mad left note0002" x="0" y="516" width="283" height="240" frameX="-5" frameY="-2" frameWidth="288" frameHeight="242"/>
+	<SubTexture name="solid mad left note0003" x="0" y="516" width="283" height="240" frameX="-5" frameY="-2" frameWidth="288" frameHeight="242"/>
+	<SubTexture name="solid mad left note0004" x="0" y="516" width="283" height="240" frameX="-5" frameY="-2" frameWidth="288" frameHeight="242"/>
+	<SubTexture name="solid mad left note0005" x="0" y="516" width="283" height="240" frameX="-5" frameY="-2" frameWidth="288" frameHeight="242"/>
+	<SubTexture name="solid mad left note0006" x="0" y="516" width="283" height="240" frameX="-5" frameY="-2" frameWidth="288" frameHeight="242"/>
+	<SubTexture name="solid mad left note0007" x="0" y="516" width="283" height="240" frameX="-5" frameY="-2" frameWidth="288" frameHeight="242"/>
+	<SubTexture name="solid mad left note0008" x="0" y="516" width="283" height="240" frameX="-5" frameY="-2" frameWidth="288" frameHeight="242"/>
+	<SubTexture name="solid mad left note0009" x="0" y="516" width="283" height="240" frameX="-5" frameY="-2" frameWidth="288" frameHeight="242"/>
+	<SubTexture name="solid mad left note0010" x="0" y="516" width="283" height="240" frameX="-5" frameY="-2" frameWidth="288" frameHeight="242"/>
+	<SubTexture name="solid mad left note0011" x="0" y="516" width="283" height="240" frameX="-5" frameY="-2" frameWidth="288" frameHeight="242"/>
+	<SubTexture name="solid mad left note0012" x="0" y="516" width="283" height="240" frameX="-5" frameY="-2" frameWidth="288" frameHeight="242"/>
+	<SubTexture name="solid mad left note0013" x="0" y="516" width="283" height="240" frameX="-5" frameY="-2" frameWidth="288" frameHeight="242"/>
+	<SubTexture name="solid mad miss up0000" x="3003" y="777" width="199" height="273" frameX="-3" frameY="0" frameWidth="205" frameHeight="273"/>
+	<SubTexture name="solid mad miss up0001" x="3890" y="515" width="205" height="271" frameX="0" frameY="-2" frameWidth="205" frameHeight="273"/>
+	<SubTexture name="solid mad miss up0002" x="3890" y="515" width="205" height="271" frameX="0" frameY="-2" frameWidth="205" frameHeight="273"/>
+	<SubTexture name="solid mad miss up0003" x="3285" y="558" width="204" height="272" frameX="-0" frameY="-0" frameWidth="205" frameHeight="273"/>
+	<SubTexture name="solid mad miss up0004" x="3285" y="558" width="204" height="272" frameX="-0" frameY="-0" frameWidth="205" frameHeight="273"/>
+	<SubTexture name="solid mad miss up0005" x="1581" y="750" width="204" height="272" frameX="-0" frameY="-0" frameWidth="205" frameHeight="273"/>
+	<SubTexture name="solid mad miss up0006" x="1581" y="750" width="204" height="272" frameX="-0" frameY="-0" frameWidth="205" frameHeight="273"/>
+	<SubTexture name="solid mad miss up0007" x="3285" y="558" width="204" height="272" frameX="-0" frameY="-0" frameWidth="205" frameHeight="273"/>
+	<SubTexture name="solid mad miss up0008" x="3285" y="558" width="204" height="272" frameX="-0" frameY="-0" frameWidth="205" frameHeight="273"/>
+	<SubTexture name="solid mad miss up0009" x="1631" y="750" width="204" height="272" frameX="-0" frameY="-0" frameWidth="205" frameHeight="273"/>
+	<SubTexture name="solid mad miss up0010" x="3285" y="558" width="203" height="272" frameX="-0" frameY="-0" frameWidth="205" frameHeight="273"/>
+	<SubTexture name="solid mad miss up0011" x="3285" y="558" width="204" height="272" frameX="-0" frameY="-0" frameWidth="205" frameHeight="273"/>
+	<SubTexture name="solid mad right miss0000" x="566" y="752" width="224" height="245" frameX="-8" frameY="-2" frameWidth="233" frameHeight="248"/>
+	<SubTexture name="solid mad right miss0001" x="1114" y="531" width="226" height="247" frameX="0" frameY="-0" frameWidth="233" frameHeight="248"/>
+	<SubTexture name="solid mad right miss0002" x="1114" y="531" width="226" height="247" frameX="0" frameY="-0" frameWidth="233" frameHeight="248"/>
+	<SubTexture name="solid mad right miss0003" x="2086" y="531" width="227" height="247" frameX="-1" frameY="0" frameWidth="233" frameHeight="248"/>
+	<SubTexture name="solid mad right miss0004" x="2086" y="531" width="227" height="247" frameX="-1" frameY="0" frameWidth="233" frameHeight="248"/>
+	<SubTexture name="solid mad right miss0005" x="2314" y="531" width="227" height="247" frameX="-1" frameY="0" frameWidth="233" frameHeight="248"/>
+	<SubTexture name="solid mad right miss0006" x="2314" y="531" width="227" height="247" frameX="-1" frameY="0" frameWidth="233" frameHeight="248"/>
+	<SubTexture name="solid mad right miss0007" x="2086" y="531" width="227" height="247" frameX="-1" frameY="0" frameWidth="233" frameHeight="248"/>
+	<SubTexture name="solid mad right miss0008" x="2086" y="531" width="227" height="247" frameX="-1" frameY="0" frameWidth="233" frameHeight="248"/>
+	<SubTexture name="solid mad right miss0009" x="2314" y="531" width="227" height="247" frameX="-1" frameY="0" frameWidth="233" frameHeight="248"/>
+	<SubTexture name="solid mad right note0000" x="566" y="752" width="224" height="245" frameX="-7" frameY="-0" frameWidth="233" frameHeight="248"/>
+	<SubTexture name="solid mad right note0001" x="566" y="752" width="224" height="245" frameX="-7" frameY="-0" frameWidth="233" frameHeight="248"/>
+	<SubTexture name="solid mad right note0002" x="2543" y="531" width="227" height="246" frameX="0" frameY="0" frameWidth="232" frameHeight="246"/>
+	<SubTexture name="solid mad right note0003" x="2543" y="531" width="227" height="246" frameX="0" frameY="0" frameWidth="232" frameHeight="246"/>
+	<SubTexture name="solid mad right note0004" x="2543" y="531" width="227" height="246" frameX="0" frameY="0" frameWidth="232" frameHeight="246"/>
+	<SubTexture name="solid mad right note0005" x="2543" y="531" width="227" height="246" frameX="0" frameY="0" frameWidth="232" frameHeight="246"/>
+	<SubTexture name="solid mad right note0006" x="2543" y="531" width="227" height="246" frameX="0" frameY="0" frameWidth="232" frameHeight="246"/>
+	<SubTexture name="solid mad right note0007" x="2543" y="531" width="227" height="246" frameX="0" frameY="0" frameWidth="232" frameHeight="246"/>
+	<SubTexture name="solid mad right note0008" x="2543" y="531" width="227" height="246" frameX="0" frameY="0" frameWidth="232" frameHeight="246"/>
+	<SubTexture name="solid mad right note0009" x="2543" y="531" width="227" height="246" frameX="0" frameY="0" frameWidth="232" frameHeight="246"/>
+	<SubTexture name="solid mad right note0010" x="2543" y="531" width="227" height="246" frameX="0" frameY="0" frameWidth="232" frameHeight="246"/>
+	<SubTexture name="solid mad up note0000" x="3003" y="777" width="199" height="273" frameX="-0" frameY="0" frameWidth="205" frameHeight="273"/>
+	<SubTexture name="solid mad up note0001" x="3003" y="777" width="199" height="273" frameX="-0" frameY="0" frameWidth="205" frameHeight="273"/>
+	<SubTexture name="solid mad up note0002" x="2543" y="779" width="201" height="269" frameX="0" frameY="-4" frameWidth="201" frameHeight="273"/>
+	<SubTexture name="solid mad up note0003" x="2543" y="779" width="201" height="269" frameX="0" frameY="-4" frameWidth="201" frameHeight="273"/>
+	<SubTexture name="solid mad up note0004" x="2543" y="779" width="201" height="269" frameX="0" frameY="-4" frameWidth="201" frameHeight="273"/>
+	<SubTexture name="solid throwing guitar and losing his shit0000" x="2802" y="516" width="242" height="256" frameX="-116" frameY="-4" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0001" x="2802" y="516" width="242" height="256" frameX="-116" frameY="-4" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0002" x="1342" y="524" width="237" height="256" frameX="-124" frameY="-2" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0003" x="1342" y="524" width="237" height="256" frameX="-124" frameY="-2" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0004" x="3046" y="516" width="237" height="259" frameX="-120" frameY="0" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0005" x="3046" y="516" width="237" height="259" frameX="-120" frameY="0" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0006" x="1270" y="782" width="224" height="231" frameX="-122" frameY="-28" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0007" x="1270" y="782" width="224" height="231" frameX="-122" frameY="-28" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0008" x="3306" y="272" width="299" height="285" frameX="-105" frameY="-39" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0009" x="3747" y="0" width="342" height="272" frameX="-61" frameY="-20" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0010" x="949" y="269" width="391" height="260" frameX="-43" frameY="-20" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0011" x="1342" y="269" width="391" height="253" frameX="-43" frameY="-26" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0012" x="3306" y="0" width="439" height="270" frameX="-26" frameY="-26" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0013" x="2865" y="0" width="439" height="273" frameX="-26" frameY="-23" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0014" x="1907" y="269" width="446" height="261" frameX="-25" frameY="-23" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0015" x="2354" y="269" width="446" height="261" frameX="-25" frameY="-23" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0016" x="0" y="0" width="473" height="271" frameX="-4" frameY="-23" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0017" x="474" y="0" width="473" height="271" frameX="-4" frameY="-23" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0018" x="1907" y="0" width="477" height="267" frameX="-1" frameY="-23" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0019" x="2386" y="0" width="477" height="267" frameX="-1" frameY="-23" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0020" x="949" y="0" width="477" height="268" frameX="0" frameY="-23" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0021" x="1428" y="0" width="477" height="268" frameX="0" frameY="-23" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0022" x="1428" y="0" width="477" height="268" frameX="0" frameY="-23" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0023" x="949" y="0" width="477" height="268" frameX="0" frameY="-23" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0024" x="949" y="0" width="477" height="268" frameX="0" frameY="-23" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0025" x="1428" y="0" width="477" height="268" frameX="0" frameY="-23" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0026" x="1428" y="0" width="477" height="268" frameX="0" frameY="-23" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0027" x="949" y="0" width="477" height="268" frameX="0" frameY="-23" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0028" x="949" y="0" width="477" height="268" frameX="0" frameY="-23" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0029" x="1735" y="269" width="168" height="245" frameX="-131" frameY="-23" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0030" x="1428" y="0" width="477" height="268" frameX="0" frameY="-23" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0031" x="2419" y="1049" width="168" height="245" frameX="-131" frameY="-23" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0032" x="949" y="0" width="477" height="268" frameX="0" frameY="-23" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0033" x="1735" y="269" width="168" height="245" frameX="-131" frameY="-23" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0034" x="1428" y="0" width="477" height="268" frameX="0" frameY="-23" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0035" x="2419" y="1049" width="168" height="245" frameX="-131" frameY="-23" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0036" x="949" y="0" width="477" height="268" frameX="0" frameY="-23" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0037" x="1735" y="269" width="168" height="245" frameX="-131" frameY="-23" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0038" x="1428" y="0" width="477" height="268" frameX="0" frameY="-23" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0039" x="2419" y="1049" width="168" height="245" frameX="-131" frameY="-23" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0040" x="2419" y="1049" width="168" height="245" frameX="-131" frameY="-23" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0041" x="3893" y="274" width="174" height="236" frameX="-125" frameY="-26" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0042" x="2957" y="1052" width="174" height="236" frameX="-125" frameY="-26" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0043" x="2213" y="1024" width="205" height="244" frameX="-109" frameY="-18" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0044" x="1445" y="1024" width="204" height="244" frameX="-109" frameY="-18" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0045" x="3419" y="1001" width="210" height="242" frameX="-104" frameY="-20" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0046" x="3631" y="1001" width="210" height="242" frameX="-104" frameY="-20" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0047" x="3842" y="1001" width="210" height="242" frameX="-104" frameY="-20" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0048" x="0" y="1001" width="210" height="242" frameX="-104" frameY="-20" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0049" x="211" y="1002" width="210" height="242" frameX="-104" frameY="-20" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0050" x="2746" y="1014" width="210" height="242" frameX="-104" frameY="-20" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0051" x="1233" y="1015" width="210" height="240" frameX="-102" frameY="-22" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0052" x="2001" y="1024" width="210" height="240" frameX="-102" frameY="-22" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0053" x="2018" y="780" width="222" height="242" frameX="-92" frameY="-20" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0054" x="2242" y="780" width="222" height="242" frameX="-92" frameY="-20" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0055" x="792" y="757" width="227" height="242" frameX="-87" frameY="-20" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0056" x="3491" y="757" width="227" height="242" frameX="-87" frameY="-20" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0057" x="0" y="758" width="227" height="242" frameX="-87" frameY="-20" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0058" x="228" y="758" width="227" height="242" frameX="-87" frameY="-20" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0059" x="1787" y="759" width="230" height="238" frameX="-87" frameY="-24" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0060" x="2772" y="774" width="230" height="238" frameX="-87" frameY="-24" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0061" x="286" y="272" width="284" height="242" frameX="-37" frameY="-22" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0062" x="286" y="272" width="284" height="242" frameX="-37" frameY="-22" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0063" x="572" y="512" width="286" height="238" frameX="-43" frameY="-26" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0064" x="572" y="512" width="286" height="238" frameX="-43" frameY="-26" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0065" x="284" y="516" width="280" height="240" frameX="-44" frameY="-23" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0066" x="284" y="516" width="280" height="240" frameX="-44" frameY="-23" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0067" x="3606" y="515" width="282" height="240" frameX="-43" frameY="-23" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0068" x="3606" y="515" width="282" height="240" frameX="-43" frameY="-23" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0069" x="3606" y="515" width="282" height="240" frameX="-43" frameY="-23" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0070" x="3606" y="515" width="282" height="240" frameX="-43" frameY="-23" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0071" x="3606" y="515" width="282" height="240" frameX="-43" frameY="-23" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0072" x="3606" y="515" width="282" height="240" frameX="-43" frameY="-23" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0073" x="3606" y="515" width="282" height="240" frameX="-43" frameY="-23" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0074" x="3606" y="515" width="282" height="240" frameX="-43" frameY="-23" frameWidth="478" frameHeight="324"/>
+	<SubTexture name="solid throwing guitar and losing his shit0075" x="3606" y="515" width="282" height="240" frameX="-43" frameY="-23" frameWidth="478" frameHeight="324"/>
+</TextureAtlas>
