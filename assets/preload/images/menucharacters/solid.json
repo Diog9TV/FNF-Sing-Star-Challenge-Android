@@ -1,0 +1,11 @@
+{
+	"idle_anim": "chris menu idle instance",
+	"image": "solid",
+	"position": [
+		45,
+		60
+	],
+	"flipX": false,
+	"scale": 0.7,
+	"confirm_anim": "M Dad Idle"
+}
